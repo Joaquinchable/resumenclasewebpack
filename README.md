@@ -7,7 +7,13 @@
    Crea un README.md en tu proyecto , copia y pega este README.md para que puedas contestar en tu proyecto las pruebas y para que puedas seguir los pasos desde tu proyecto.
      
 
-     recuerda intalar las dependencias con      npm install
+   Recuerda que para  instalar las dependencias del package.jason de este repo clonado es desde terminal con :  
+
+npm install  
+ 
+Nota: tienes que estar en la carpeta clonada para correr desde terminal el npm install esto te generar la carpeta de  node_modules e instalara las dependencias del package.jason
+
+Para el proyecto desde 0 seguir los siguientes pasos de abajo
 
 ---------------------------------------
 Pasos del desarrollo.
